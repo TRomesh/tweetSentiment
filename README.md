@@ -1,5 +1,5 @@
 # Tweet Sentiment Analysis
-## 1.6 M tweets sentiment analysis using deep learning (LSTMs from keras and tensorflow)
+## 1.6 M tweets sentiment analysis using deep learning (LSTMs from keras and tensorflow) [Accuracy around 82%]
 
 Download from https://www.kaggle.com/kazanova/sentiment140 to get large dataset.
 Download from https://www.kaggle.com/crowdflower/twitter-airline-sentiment to get small dataset.
